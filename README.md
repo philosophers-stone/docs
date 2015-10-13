@@ -10,7 +10,8 @@ The Philosopher's Stone Organization has two main objectives:
 ## Guidelines 
 
 * A common namespace: 
-  Every module must live under the PhS. namespace.
+  Every module must live under either the PhS. namespace or a namespace specific
+  to the repository.
 
 * All repos must follow semantic versioning.
 * All repos must be 1.0 before appearing in the PhS. namespace. 
