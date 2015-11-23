@@ -76,20 +76,7 @@ Please provide as much detail and context as possible.
 
 We encourage everyone to contribute to Philosopher's Stone and help us tackle
 existing issues! To do so, there are a few things you need to know
-about the organization. First, the repositories in this organization fall
-into 2 Categories.
-
-* Shadow
-    These are repositories that extend the functionality of modules in
-    the standard Elixir distribution with utility functions. The intent is to collect
-    all the useful one-off functions that don't quite meet the standard for inclusion
-    in the elixir core distribution.
-
-* Useful
-    These are repositories that are considered generally useful and are past the
-    1.0 revision stage. The intent of this Organization is to share the burden of
-    maintaining useful libraries.
-
+about the organization. 
 
 ## Contributing Documentation
 
